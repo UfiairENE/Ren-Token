@@ -1,1 +1,3 @@
-# Ren-Token
+ERC20 address: https://rinkeby.etherscan.io/tx/0x5407c37463ffcec67dd70365219f40ab4ade37b27e3d4048daee84b381bbcf2a
+
+https://etherscan.github.io/ethvalidate/?n=rinkeby_infura&tx=0x10b23702f1b137b7452572151312db16d66af923d4318c337df291429c6d9418
