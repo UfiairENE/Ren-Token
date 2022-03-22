@@ -5,7 +5,7 @@ pragma solidity ^0.8.0;
 import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/ERC20.sol";
 //Import ERC20 Contract from OpenZeppelin
 
-contract RenTokenFixedSupply  is ERC20 {
+contract RenToken is ERC20 {
 
    //we also want to call the constructor present inside ERC20
     constructor() ERC20("Fixed", "FIX") {
